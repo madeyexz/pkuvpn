@@ -1,6 +1,6 @@
 # pkuvpn
 
-Command-line script to access PKU's internal network via VPN. While primarily for establishing the connection, this setup also facilitates using proxy tools like Clash for managing global traffic.
+A command-line script to VPN into PKU’s internal network and seamlessly route traffic through proxy tools like Clash.
 
 ## Prerequisites
 
